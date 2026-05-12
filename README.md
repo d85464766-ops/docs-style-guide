@@ -1,1 +1,1 @@
-# Documentation Style Guide
+# Documentation Style Guidelines
